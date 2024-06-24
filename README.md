@@ -4,5 +4,4 @@ HR needs to stay up-to-date with all relevant information. The purpose of the pr
 
 # Dashboard Screenshot
 <img width="695" alt="image" src="https://github.com/aniketgithub123/Excel-Project/assets/132927600/e24bd05b-af93-4ba5-bc9e-4224db1129a4">
-<img width="695" alt="image" src="https://github.com/aniketgithub123/Excel-Project/assets/132927600/e24bd05b-af93-4ba5-bc9e-4224db1129a4">
 
